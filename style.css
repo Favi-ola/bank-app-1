@@ -25,3 +25,10 @@ button{
     border-radius: 5px;
     border: 1px solid blue;
 }
+button:hover{
+    background-color: blue;
+    color: white;
+}
+.error{
+    color: red;
+}
